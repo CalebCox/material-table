@@ -1,4 +1,12 @@
-# material-table
+<p align="center" style="box-shadow: 2px 2px;">
+  <a href="https://material-table.com" rel="noopener" target="_blank" ><img width="200" src="https://raw.githubusercontent.com/mbrn/material-table.com/master/docs/assets/logo-back.png" alt="material-table"></a></p>
+</p>
+
+<h1 align="center">material-table</h1>
+
+<div align="center">
+
+A simple and powerful Datatable for React based on [Material-UI Table](https://material-ui.com/api/table/) with some additional features.
 
 [![Build Status](https://travis-ci.org/mbrn/material-table.svg?branch=master)](https://travis-ci.org/mbrn/material-table)
 [![npm package](https://img.shields.io/npm/v/material-table/latest.svg)](https://www.npmjs.com/package/material-table)
@@ -7,29 +15,33 @@
 [![Follow on Twitter](https://img.shields.io/twitter/follow/baranmehmet.svg?label=follow+baranmehmet)](https://twitter.com/baranmehmet)
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/material-table/Lobby)
 
-A simple and powerful Datatable for React based on [Material-UI Table](https://material-ui.com/api/table/) with some additional features.
+</div>
 
 ## Key features
 
-- [Actions](https://mbrn.github.io/material-table/#/docz-examples-03-example-actions)
-- [Component overriding](https://mbrn.github.io/material-table/#/docz-examples-10-example-component-overriding)
-- [Custom rendering](https://mbrn.github.io/material-table/#/docz-examples-07-example-custom-render)
-- [Detail Panel](https://mbrn.github.io/material-table/#/docz-examples-11-example-detail-panel)
-- [Editable](https://mbrn.github.io/material-table/#/docz-examples-15-example-editable)
-- [Export](https://mbrn.github.io/material-table/#/docz-examples-03-example-actions)
-- [Filtering](https://mbrn.github.io/material-table/#/docz-examples-06-example-filtering)
-- [Grouping](https://mbrn.github.io/material-table/#/docz-examples-12-example-grouping)
-- [Localization](https://mbrn.github.io/material-table/#/docz-examples-09-example-localization)
-- [Remote Data](https://mbrn.github.io/material-table/#/docz-examples-14-example-remote-data)
-- [Search](https://mbrn.github.io/material-table/#/docz-examples-03-example-actions)
-- [Selection](https://mbrn.github.io/material-table/#/docz-examples-05-example-selection)
-- [Sorting](https://mbrn.github.io/material-table/#/docz-examples-04-example-sorting)
-- [Styling](https://mbrn.github.io/material-table/#/docz-examples-08-example-cell-styling)
-- [Tree Data](https://mbrn.github.io/material-table/#/docz-examples-13-example-tree-data)
+- [Actions](https://material-table.com/#/docs/features/actions)
+- [Component overriding](https://material-table.com/#/docs/features/component-overriding)
+- [Custom column rendering](https://material-table.com/#/docs/features/custom-column-rendering)
+- [Detail Panel](https://material-table.com/#/docs/features/detail-panel)
+- [Editable](https://material-table.com/#/docs/features/editable)
+- [Export](https://material-table.com/#/docs/features/export)
+- [Filtering](https://material-table.com/#/docs/features/filtering)
+- [Grouping](https://material-table.com/#/docs/features/grouping)
+- [Localization](https://material-table.com/#/docs/features/localization)
+- [Remote Data](https://material-table.com/#/docs/features/remote-data)
+- [Search](https://material-table.com/#/docs/features/search)
+- [Selection](https://material-table.com/#/docs/features/selection)
+- [Sorting](https://material-table.com/#/docs/features/sorting)
+- [Styling](https://material-table.com/#/docs/features/styling)
+- [Tree Data](https://material-table.com/#/docs/features/tree-data)
 - and more
 
 ## Demo and documentation
-You can access all examples and documentation from [__docs site__](https://mbrn.github.io/material-table/).
+You can access all examples and documentation from [__docs site__](https://material-table.com/).
+
+## Support material-table
+
+To support material-table visit [SUPPORT](https://www.patreon.com/mbrn) page.
 
 ## Installation
 
@@ -80,7 +92,7 @@ ReactDOM.render(<App />, document.getElementById('react-div'));
 
 ## Contributing
 
-We'd love to have your helping hand on `material-table`! See [CONTRIBUTING.md](https://github.com/mbrn/material-table/blob/master/CONTRIBUTING.md) for more information on what we're looking for and how to get started.
+We'd love to have your helping hand on `material-table`! See [CONTRIBUTING.md](https://github.com/mbrn/material-table/blob/master/.github/CONTRIBUTING.md) for more information on what we're looking for and how to get started.
 
 If you have any sort of doubt, idea or just want to talk about the project, feel free to join [our chat on Gitter](https://gitter.im/material-table/Lobby) :)
 
